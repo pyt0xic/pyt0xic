@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Natural Language Processing, Python, DevOps and Linux
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me nic@unsalty.tech
+- (THIS IS A NEW ACCOUNT)
 
 <!---
 pyt0xic/pyt0xic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
