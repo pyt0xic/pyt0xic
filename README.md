@@ -8,7 +8,7 @@
 1. Learn IaC/Terrafrom
 2. Try out some other CI/CD services (Azure/AWS)
 3. Learn AWS Lambda and maybe try do a serverless API for fun.
-4. Learn gRPC and SignalR``
+4. Learn gRPC and SignalR
 
 <!---
 pyt0xic/pyt0xic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
