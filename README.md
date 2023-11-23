@@ -1,14 +1,20 @@
-#### ABOUT ME:
-- 👋 Hi, I’m Nic
-- 👀 Just a junior engineer with way too much responsibility.
-- 🎈 I do everything from .NET Core microservices to helping maintain a 5 million line FoxPro codebase.
-- 🌱 Arch BTW (╯°□°）╯︵ ┻━┻
+### 👋 Hi, I’m Nic
 
-#### LEARNING ROADMAP:
-1. Learn IaC/Terrafrom
-2. Try out some other CI/CD services (Azure/AWS)
-3. Learn AWS Lambda and maybe try do a serverless API for fun.
-4. Learn gRPC and SignalR
+I am passionate about Linux, FOSS, Software Development, DevOps and 
+
+#### What I'm using:
+- Languages: C#, FoxPro, Python
+- Editor: NeoVim
+- Distro: Arch BTW (╯°□°）╯︵ ┻━┻
+- WM: Hyprland
+- Shell: Fish/zsh
+- Terminal: Kitty/Wezterm
+- Likes: OSS, event sourcing and CQRS
+
+#### What I'm learning:
+1. Embedded and IoT development (ESP8266 + MQTT) 
+2. Kubernetes and distributed filesystems
+3. Integrated logging, tracing and metrics with OTel
 
 <!---
 pyt0xic/pyt0xic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
