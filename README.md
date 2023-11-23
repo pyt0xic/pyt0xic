@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nic
 
-I am passionate about Linux, FOSS, Software Development, DevOps and 
+I am passionate about Linux, FOSS, Software Development, DevOps and good food. 
 
 #### What I'm using:
 - Languages: C#, FoxPro, Python
